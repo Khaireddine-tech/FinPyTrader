@@ -1,0 +1,2 @@
+[console_scripts]
+finpytrader = FinPyTrader.FinPyTrader:main

@@ -1,0 +1,9 @@
+Metadata-Version: 2.1
+Name: FinPyTrader
+Version: 0.1.0
+Summary: A Python package for algorithmic trading
+Home-page: https://github.com/khaireddine-tech/FinPyTrader
+Author: Khaireddine Arbouch
+Author-email: khaireddine.arbouch@bahcesehir.edu.tr
+License: MIT
+Keywords: algorithmic trading finance
