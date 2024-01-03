@@ -1,9 +1,0 @@
-README.md
-setup.py
-FinPyTrader/FinPyTrader.py
-FinPyTrader/__init__.py
-FinPyTrader.egg-info/PKG-INFO
-FinPyTrader.egg-info/SOURCES.txt
-FinPyTrader.egg-info/dependency_links.txt
-FinPyTrader.egg-info/entry_points.txt
-FinPyTrader.egg-info/top_level.txt
